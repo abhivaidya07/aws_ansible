@@ -8,7 +8,6 @@
           instance_type: t2.micro
           image: ami-02354e95b39ca8dec
           region: us-east-1
-          group: alltraffic
           count: 1
           wait: yes
           instance_tags: 
