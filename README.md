@@ -15,6 +15,7 @@ Add credentials to .boto file
 $ vi .boto
 ```
 > Note: if you are using a AWS Educate account also copy the token and rename **aws_session_token** to **aws_security_token**
+
 Install Ansible
 ```
 $ yum install ansible
