@@ -12,6 +12,7 @@ Install boto for AWS authentication
 $ pip install boto
 ```
 Create .boto file at $HOME i.e. home directory of user
+
 Add credentials to .boto file
 ```
 $ vi .boto
