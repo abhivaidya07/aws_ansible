@@ -20,7 +20,7 @@ aws_access_key_id=***
 aws_secret_access_key=****
 aws_security_token=****
 ```
-> Note: if you are using a AWS Educate account also copy the token and rename **aws_session_token** to **aws_security_token**
+> Note: if you are using a AWS Educate account copy the token and rename **aws_session_token** to **aws_security_token**
 
 Install Ansible
 ```
