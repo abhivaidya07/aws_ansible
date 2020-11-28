@@ -1,7 +1,7 @@
 # ec2_ansible
 Here we will create a ec2 instance using Ansible.
 
-##Getting Started
+## Getting Started
 
 Install pip 
 ```
