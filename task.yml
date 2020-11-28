@@ -10,8 +10,6 @@
           region: us-east-1
           group: alltraffic
           count: 1
-          vpc_subnet_id: subnet-36af7269
           wait: yes
-          assign_public_ip: yes
           instance_tags: 
               Name: ansible   	
