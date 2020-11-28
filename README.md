@@ -20,7 +20,7 @@ $ vi .boto
 
 Install Ansible
 ```
-$ yum install ansible
+$ yum install ansible -y
 ```
 Run the playbook
 ```
