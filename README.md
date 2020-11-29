@@ -31,7 +31,7 @@ $ yum install ansible -y
 ```
 Run the playbook
 ```
-$ ansible-playbook task.yml
+$ ansible-playbook ec2.yml
 ```
 
 ## Creating s3 bucket
