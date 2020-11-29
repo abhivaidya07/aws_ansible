@@ -1,4 +1,4 @@
-# ec2_ansible
+# aws_ansible
 Here we will create a ec2 instance using Ansible.
 
 ## Getting Started
