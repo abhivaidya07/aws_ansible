@@ -1,0 +1,15 @@
+---
+ - name: creating s3 bucket
+   hosts: localhost
+   tasks:
+    - name: creating bucket
+      aws_s3:
+        bucket: ansible1234
+        mode: create
+    - name: putting object 
+      aws_s3:
+        bucket: ansible1234
+        object: test
+        src: ./test
+        permission: public-read
+        mode: put
